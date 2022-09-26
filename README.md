@@ -1,5 +1,15 @@
-# CompiPanas
+# Lab2 Compiladores
 Inspirado por los gatitos panas.
+
+# Por si se necesitan los videos en Youtube:
+
+Requerimientos: 
+https://youtu.be/GYbEzEvF2x4
+
+Código:  
+https://youtu.be/-dpj-MstUGQ
+
+
 
 # Instrucciones
 
