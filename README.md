@@ -3,7 +3,7 @@ Inspirado por los gatitos panas.
 
 # Por si se necesitan los videos en Youtube:
 
-Requerimientos: 
+Requerimientos:  
 https://youtu.be/GYbEzEvF2x4
 
 Código:  
